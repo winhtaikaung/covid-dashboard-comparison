@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1732556977527" clover="3.2.0">
-  <project timestamp="1732556977527" name="All files">
-    <metrics statements="128" coveredstatements="111" conditionals="157" coveredconditionals="125" methods="34" coveredmethods="25" elements="319" coveredelements="261" complexity="0" loc="128" ncloc="128" packages="6" files="9" classes="9"/>
+<coverage generated="1732574790713" clover="3.2.0">
+  <project timestamp="1732574790713" name="All files">
+    <metrics statements="130" coveredstatements="114" conditionals="157" coveredconditionals="125" methods="34" coveredmethods="25" elements="321" coveredelements="264" complexity="0" loc="130" ncloc="130" packages="6" files="9" classes="9"/>
     <package name="components.ui">
-      <metrics statements="50" coveredstatements="45" conditionals="5" coveredconditionals="5" methods="9" coveredmethods="6"/>
+      <metrics statements="49" coveredstatements="45" conditionals="5" coveredconditionals="5" methods="9" coveredmethods="6"/>
       <file name="chart.tsx" path="/workspaces/data-gpt-take-home/frontend/src/components/ui/chart.tsx">
         <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="16" type="stmt"/>
-        <line num="9" count="16" type="stmt"/>
-        <line num="19" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="16" type="stmt"/>
+        <line num="7" count="16" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
       </file>
       <file name="select.tsx" path="/workspaces/data-gpt-take-home/frontend/src/components/ui/select.tsx">
         <metrics statements="38" coveredstatements="36" conditionals="5" coveredconditionals="5" methods="7" coveredmethods="5"/>
@@ -28,77 +28,76 @@
         <line num="31" count="2" type="stmt"/>
         <line num="33" count="2" type="stmt"/>
         <line num="36" count="6" type="stmt"/>
-        <line num="48" count="2" type="stmt"/>
-        <line num="50" count="2" type="stmt"/>
-        <line num="53" count="6" type="stmt"/>
-        <line num="65" count="2" type="stmt"/>
-        <line num="68" count="2" type="stmt"/>
-        <line num="71" count="6" type="cond" truecount="1" falsecount="0"/>
-        <line num="98" count="2" type="stmt"/>
-        <line num="100" count="2" type="stmt"/>
-        <line num="103" count="0" type="stmt"/>
-        <line num="110" count="2" type="stmt"/>
-        <line num="112" count="2" type="stmt"/>
-        <line num="115" count="6" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="50" count="6" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="64" count="6" type="cond" truecount="1" falsecount="0"/>
+        <line num="91" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="99" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="104" count="6" type="stmt"/>
+        <line num="121" count="2" type="stmt"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
         <line num="132" count="2" type="stmt"/>
+        <line num="133" count="2" type="stmt"/>
         <line num="134" count="2" type="stmt"/>
-        <line num="137" count="0" type="stmt"/>
-        <line num="144" count="2" type="stmt"/>
-        <line num="147" count="2" type="stmt"/>
-        <line num="148" count="2" type="stmt"/>
-        <line num="149" count="2" type="stmt"/>
-        <line num="150" count="2" type="stmt"/>
-        <line num="151" count="2" type="stmt"/>
-        <line num="152" count="2" type="stmt"/>
-        <line num="153" count="2" type="stmt"/>
-        <line num="154" count="2" type="stmt"/>
-        <line num="155" count="2" type="stmt"/>
-        <line num="156" count="2" type="stmt"/>
+        <line num="135" count="2" type="stmt"/>
+        <line num="136" count="2" type="stmt"/>
+        <line num="137" count="2" type="stmt"/>
+        <line num="138" count="2" type="stmt"/>
+        <line num="139" count="2" type="stmt"/>
+        <line num="140" count="2" type="stmt"/>
+        <line num="141" count="2" type="stmt"/>
       </file>
       <file name="skeleton.tsx" path="/workspaces/data-gpt-take-home/frontend/src/components/ui/skeleton.tsx">
-        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="3" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
         <line num="4" count="0" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="7" count="0" type="stmt"/>
-        <line num="15" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
       </file>
     </package>
     <package name="dashboard">
       <metrics statements="31" coveredstatements="19" conditionals="22" coveredconditionals="15" methods="9" coveredmethods="3"/>
       <file name="index.tsx" path="/workspaces/data-gpt-take-home/frontend/src/dashboard/index.tsx">
         <metrics statements="31" coveredstatements="19" conditionals="22" coveredconditionals="15" methods="9" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
-        <line num="15" count="1" type="stmt"/>
         <line num="16" count="1" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
-        <line num="22" count="1" type="stmt"/>
-        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
         <line num="24" count="0" type="stmt"/>
-        <line num="25" count="0" type="stmt"/>
-        <line num="27" count="0" type="stmt"/>
-        <line num="28" count="0" type="stmt"/>
-        <line num="32" count="1" type="stmt"/>
-        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="34" count="0" type="stmt"/>
-        <line num="36" count="0" type="stmt"/>
-        <line num="40" count="1" type="stmt"/>
-        <line num="41" count="3" type="stmt"/>
-        <line num="45" count="0" type="stmt"/>
-        <line num="53" count="3" type="stmt"/>
-        <line num="60" count="0" type="stmt"/>
-        <line num="69" count="1" type="stmt"/>
-        <line num="77" count="0" type="stmt"/>
-        <line num="86" count="0" type="stmt"/>
-        <line num="104" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="51" count="3" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
       </file>
     </package>
     <package name="dashboard.components">
@@ -107,50 +106,53 @@
         <metrics statements="7" coveredstatements="7" conditionals="16" coveredconditionals="15" methods="2" coveredmethods="2"/>
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="4" type="stmt"/>
-        <line num="10" count="4" type="stmt"/>
-        <line num="22" count="3" type="stmt"/>
-        <line num="29" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
       </file>
     </package>
     <package name="dashboard.components.covidcasescharts">
-      <metrics statements="30" coveredstatements="30" conditionals="112" coveredconditionals="88" methods="12" coveredmethods="12"/>
+      <metrics statements="33" coveredstatements="33" conditionals="112" coveredconditionals="88" methods="12" coveredmethods="12"/>
       <file name="index.tsx" path="/workspaces/data-gpt-take-home/frontend/src/dashboard/components/covidcasescharts/index.tsx">
-        <metrics statements="19" coveredstatements="19" conditionals="108" coveredconditionals="86" methods="9" coveredmethods="9"/>
+        <metrics statements="20" coveredstatements="20" conditionals="108" coveredconditionals="86" methods="9" coveredmethods="9"/>
         <line num="1" count="2" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
-        <line num="6" count="4" type="stmt"/>
-        <line num="7" count="4" type="stmt"/>
-        <line num="8" count="4" type="stmt"/>
-        <line num="31" count="4" type="cond" truecount="9" falsecount="3"/>
-        <line num="45" count="4" type="stmt"/>
-        <line num="46" count="4" type="stmt"/>
-        <line num="71" count="4" type="cond" truecount="9" falsecount="3"/>
-        <line num="84" count="4" type="stmt"/>
-        <line num="85" count="4" type="stmt"/>
-        <line num="109" count="4" type="cond" truecount="9" falsecount="3"/>
-        <line num="115" count="4" type="cond" truecount="9" falsecount="3"/>
-        <line num="127" count="4" type="stmt"/>
-        <line num="128" count="4" type="stmt"/>
-        <line num="201" count="4" type="stmt"/>
-        <line num="209" count="2" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="45" count="4" type="cond" truecount="9" falsecount="3"/>
+        <line num="58" count="4" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="91" count="4" type="stmt"/>
+        <line num="105" count="4" type="stmt"/>
+        <line num="106" count="4" type="stmt"/>
+        <line num="140" count="4" type="stmt"/>
+        <line num="151" count="4" type="stmt"/>
+        <line num="165" count="4" type="stmt"/>
+        <line num="166" count="4" type="stmt"/>
+        <line num="251" count="4" type="stmt"/>
+        <line num="261" count="2" type="stmt"/>
       </file>
       <file name="useFetchCovidData.tsx" path="/workspaces/data-gpt-take-home/frontend/src/dashboard/components/covidcasescharts/useFetchCovidData.tsx">
-        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
         <line num="1" count="3" type="stmt"/>
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="3" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
         <line num="7" count="5" type="stmt"/>
         <line num="8" count="5" type="stmt"/>
         <line num="9" count="5" type="stmt"/>
-        <line num="10" count="5" type="stmt"/>
-        <line num="12" count="16" type="cond" truecount="1" falsecount="1"/>
-        <line num="15" count="16" type="cond" truecount="1" falsecount="1"/>
-        <line num="18" count="5" type="stmt"/>
-        <line num="28" count="3" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="12" count="16" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="16" type="stmt"/>
+        <line num="37" count="5" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
       </file>
     </package>
     <package name="dashboard.enums">
